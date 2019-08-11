@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-frontend-heroku/static/css/main.2cce8147.chunk.css",
+    "main.js": "/react-frontend-heroku/static/js/main.8b84f787.chunk.js",
+    "main.js.map": "/react-frontend-heroku/static/js/main.8b84f787.chunk.js.map",
+    "runtime~main.js": "/react-frontend-heroku/static/js/runtime~main.413b7d1d.js",
+    "runtime~main.js.map": "/react-frontend-heroku/static/js/runtime~main.413b7d1d.js.map",
+    "static/js/2.ea480d3e.chunk.js": "/react-frontend-heroku/static/js/2.ea480d3e.chunk.js",
+    "static/js/2.ea480d3e.chunk.js.map": "/react-frontend-heroku/static/js/2.ea480d3e.chunk.js.map",
+    "index.html": "/react-frontend-heroku/index.html",
+    "precache-manifest.13418aaa891f9dcb9f76d10d3067ac21.js": "/react-frontend-heroku/precache-manifest.13418aaa891f9dcb9f76d10d3067ac21.js",
+    "service-worker.js": "/react-frontend-heroku/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/react-frontend-heroku/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/react-frontend-heroku/static/media/logo.5d5d9eef.svg"
+  }
+}
