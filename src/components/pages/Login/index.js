@@ -55,9 +55,9 @@ class LogIn extends Component {
             tomorrow.setDate(tomorrow.getDate() + 1);
             localStorage.setItem("sheltrExpireTime", tomorrow);
             
-          })
-          this.props.history.push('/');
-          window.location.reload();
+            this.props.history.push('/');
+            window.location.reload();
+          });
         }
         else {
           alert("Invalid username or password, try again")
